@@ -1,0 +1,13 @@
+Nomenclature des fichiers pièces Solidworks :
+
+EXO-A_BC-W_XY-Z
+
+EXO : ExoFlex
+
+A : Numéro d'assemblage
+BC : Numéro de sous-assemblage
+W : Numéro de version du sous assemblage
+XY : Numéro de pièce du sous assemblage
+Z : Numéro de version de la pièce
+
+EXO-1 01-1 01-1

@@ -1,0 +1,4 @@
+1) Insérez la pièce dans un assemblage.
+2) Sélectionnez le type (grosseur, longueur) avec un clic droit sur la pièce.
+
+Veuillez svp mentionner tout problème à: sebastien.labbe@usherbrooke.ca
